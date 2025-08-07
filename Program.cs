@@ -30,3 +30,8 @@ void PrintSixthMessage(string message)
 {
     //Do Something with the message
 }
+
+void PrintExtraSeventhMessage(string message)
+{
+    //Do Something with the message
+}
