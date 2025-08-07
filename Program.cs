@@ -31,6 +31,11 @@ void PrintSixthMessage(string message)
     //Do Something with the message
 }
 
+void PrintAnotheSeverMessage(string message)
+{
+    //Do Something with the message
+}
+
 void PrintEightMessage(string message)
 {
     //Do Something with the message
