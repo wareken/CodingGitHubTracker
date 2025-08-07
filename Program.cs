@@ -20,3 +20,8 @@ void PrintFourthMessage(string message)
 {
     //Do Something with the message
 }
+
+void PrintFifthMessage(string message)
+{
+    //Do Something with the message
+}
