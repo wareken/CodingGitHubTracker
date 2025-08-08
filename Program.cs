@@ -40,3 +40,8 @@ void PrintEightMessage(string message)
 {
     //Do Something with the message
 }
+
+void PrintNineMessage(string message)
+{
+    //Do Something with the message
+}
