@@ -41,6 +41,16 @@ void PrintEightMessage(string message)
     //Do Something with the message
 }
 
+void PrintTenMessage(string message)
+{
+    //Do Something with the message
+}
+
+void PrintElevenMessage(string message)
+{
+    //Do Something with the message
+}
+
 void PrintNineMessage(string message)
 {
     //Do Something with the message
